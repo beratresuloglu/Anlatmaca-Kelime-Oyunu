@@ -49,5 +49,5 @@ Projeyi daha eğlenceli ve kapsamlı hale getirmek için planlanan geliştirmele
 
 **Berat Resuloğlu**
 * Sakarya Üniversitesi - Bilgisayar Mühendisliği
-* [LinkedIn](https://www.linkedin.com/in/berat-resuloglu/)
+* [LinkedIn](https://www.linkedin.com/in/beratresuloglu/)
 * [GitHub](https://github.com/beratresuloglu)
