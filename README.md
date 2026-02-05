@@ -36,3 +36,11 @@ Bu proje, kodun sürdürülebilirliği ve test edilebilirliği hedeflenerek mode
   * **Local JSON & Service Layer:** Kelime veritabanı JSON formatında asenkron olarak yönetilmektedir.
 * **Kullanıcı Deneyimi (UX)**
   * **Lottie Animations:** Dinamik animasyonlar ile kullanıcı etkileşimi artırılmıştır.
+
+## 🚀 Gelmesi Planlanan Özellikler (Roadmap)
+
+Projeyi daha eğlenceli ve kapsamlı hale getirmek için planlanan geliştirmeler:
+
+* **Gelişmiş Kelime Kategorileri:** Spor, sinema, tarih ve bilim gibi özel ilgi alanlarına yönelik yeni kelime paketleri.
+* **Kategorize Edilmiş Kelime Paketleri** Kullanıcıların seçtiği kategorilere göre oyun özelleştirmesi.
+* **İstatistik ve Başarımlar:** En yüksek skorların tutulduğu bir liderlik tablosu ve çeşitli oyun içi başarı (achievement) sistemi.
