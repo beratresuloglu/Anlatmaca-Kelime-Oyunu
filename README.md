@@ -44,3 +44,10 @@ Projeyi daha eğlenceli ve kapsamlı hale getirmek için planlanan geliştirmele
 * **Gelişmiş Kelime Kategorileri:** Spor, sinema, tarih ve bilim gibi özel ilgi alanlarına yönelik yeni kelime paketleri.
 * **Kategorize Edilmiş Kelime Paketleri** Kullanıcıların seçtiği kategorilere göre oyun özelleştirmesi.
 * **İstatistik ve Başarımlar:** En yüksek skorların tutulduğu bir liderlik tablosu ve çeşitli oyun içi başarı (achievement) sistemi.
+
+## 👨‍💻 Geliştirici
+
+**Berat Resuloğlu**
+* Sakarya Üniversitesi - Bilgisayar Mühendisliği
+* [LinkedIn](https://www.linkedin.com/in/berat-resuloglu/)
+* [GitHub](https://github.com/beratresuloglu)
