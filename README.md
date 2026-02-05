@@ -10,6 +10,19 @@ Modern Arayüz: Kullanıcı deneyimi odaklı, şık ve sade tasarım.
 
 Skor Takibi: Takımların puanlarını anlık olarak takip edin.
 
+📸 Ekran Görüntüleri
+
+![Image](https://github.com/user-attachments/assets/f1d24430-dafb-43bc-847a-f9ee69ffdc13)
+
+![Image](https://github.com/user-attachments/assets/b463f83e-3395-445a-b651-a6addb8f3689)
+
+![Image](https://github.com/user-attachments/assets/1c55029a-2b2e-4a93-b99b-4261a443468c)
+
+![Image](https://github.com/user-attachments/assets/29f358c5-81a0-49db-8a48-35816a0416c3)
+
+![Image](https://github.com/user-attachments/assets/096a7a56-9fa2-4ab4-b916-3a2db43b34a8)
+
+![Image](https://github.com/user-attachments/assets/cca66df1-c209-4769-b162-0ca09d9beea4)
 
 🛠 Teknik Mimari ve Teknolojiler
 Bu proje, kodun sürdürülebilirliği ve test edilebilirliği hedeflenerek modern yazılım prensiplerine uygun şekilde geliştirilmiştir.
