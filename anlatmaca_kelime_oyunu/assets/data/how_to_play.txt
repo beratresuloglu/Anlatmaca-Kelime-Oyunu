@@ -1,0 +1,17 @@
+Anlatmaca: Kelime Oyunu
+
+Oyun keyfinizi başlatmak için "Oyna" butonuna dokunmanız yeterli. Takım sayısından tur limitlerine, takım isimlerine kadar oyunun tüm dinamiklerini kendi stratejinize göre belirleyin.
+
+Göz Yormayan Tasarım Sade ve kullanıcı dostu arayüzümüzü, Ayarlar menüsünden ulaşabileceğiniz Açık/Koyu tema seçeneklerinden istediğiniz ile kullanabilirsiniz.
+
+Nasıl Oynanır?
+
+Hazırlık: En az iki takım oluşturun ve rekabete başlayın.
+
+Anlatım: Hedef kelimeyi, altındaki yasaklı kelimeleri telaffuz etmeden takımınıza anlatın.
+
+Dikkat: Yasaklı kelimeleri kullanmak -1 puan olarak hanenize yansır. Pas geçmeniz durumunda hanenize + veya - yazılmaz.
+
+Zafer: Başarılı her anlatım 1 puandır. Tüm turların sonunda skor tablosunun zirvesindeki takım kazanır!
+
+Rekabet dolu, keyifli oyunlar! 🎉
