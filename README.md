@@ -11,19 +11,18 @@ Modern Arayüz: Kullanıcı deneyimi odaklı, şık ve sade tasarım.
 Skor Takibi: Takımların puanlarını anlık olarak takip edin.
 
 📸 Ekran Görüntüleri
-<table style="width: 100%; text-align: center;"> <tr> <td><img src="https://github.com/user-attachments/assets/f1d24430-dafb-43bc-847a-f9ee69ffdc13" width="200" alt="Giriş Ekranı"/>
-
-</td> <td><img src="https://github.com/user-attachments/assets/b463f83e-3395-445a-b651-a6addb8f3689" width="200" alt="Ana Ekran"/>
-
-</td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/29f358c5-81a0-49db-8a48-35816a0416c3" width="200" alt="Hazırlık Ekranı"/>
-
-</td> <td><img src="https://github.com/user-attachments/assets/cca66df1-c209-4769-b162-0ca09d9beea4" width="200" alt="Skor Tablosu"/>
-
-<</td> <td><img src="https://github.com/user-attachments/assets/1c55029a-2b2e-4a93-b99b-4261a443468c" width="200" alt="Oyun Başlangıcı"/>
-
-</td> <td><img src="https://github.com/user-attachments/assets/096a7a56-9fa2-4ab4-b916-3a2db43b34a8" width="200" alt="Sonuç"/>
-
-</td> </tr> </table>
+<table style="width: 100%; text-align: center; border-collapse: collapse;">
+  <tr>
+    <td style="padding: 10px;"><img src="https://github.com/user-attachments/assets/f1d24430-dafb-43bc-847a-f9ee69ffdc13" width="220" /></td>
+    <td style="padding: 10px;"><img src="https://github.com/user-attachments/assets/b463f83e-3395-445a-b651-a6addb8f3689" width="220" /></td>
+    <td style="padding: 10px;"><img src="https://github.com/user-attachments/assets/1c55029a-2b2e-4a93-b99b-4261a443468c" width="220" /></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;"><img src="https://github.com/user-attachments/assets/29f358c5-81a0-49db-8a48-35816a0416c3" width="220" /></td>
+    <td style="padding: 10px;"><img src="https://github.com/user-attachments/assets/096a7a56-9fa2-4ab4-b916-3a2db43b34a8" width="220" /></td>
+    <td style="padding: 10px;"><img src="https://github.com/user-attachments/assets/cca66df1-c209-4769-b162-0ca09d9beea4" width="220" /></td>
+  </tr>
+</table>
 
 🛠 Teknik Mimari ve Teknolojiler
 Bu proje, kodun sürdürülebilirliği ve test edilebilirliği hedeflenerek modern yazılım prensiplerine uygun şekilde geliştirilmiştir.
