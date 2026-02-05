@@ -10,13 +10,6 @@ Modern Arayüz: Kullanıcı deneyimi odaklı, şık ve sade tasarım.
 
 Skor Takibi: Takımların puanlarını anlık olarak takip edin.
 
-📸 Ekran Görüntüleri
-file:///C:/Users/BERAT/Desktop/Anlatmaca%20-%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/WhatsApp%20Image%202026-02-03%20at%2019.11.47.jpeg
-file:///C:/Users/BERAT/Desktop/Anlatmaca%20-%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/WhatsApp%20Image%202026-02-03%20at%2019.11.48%20(2).jpeg
-file:///C:/Users/BERAT/Desktop/Anlatmaca%20-%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/WhatsApp%20Image%202026-02-03%20at%2019.11.47%20(1).jpeg
-file:///C:/Users/BERAT/Desktop/Anlatmaca%20-%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/WhatsApp%20Image%202026-02-03%20at%2019.11.48%20(3).jpeg
-file:///C:/Users/BERAT/Desktop/Anlatmaca%20-%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/WhatsApp%20Image%202026-02-03%20at%2019.11.48%20(4).jpeg
-file:///C:/Users/BERAT/Desktop/Anlatmaca%20-%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/WhatsApp%20Image%202026-02-03%20at%2019.11.48.jpeg
 
 🛠 Teknik Mimari ve Teknolojiler
 Bu proje, kodun sürdürülebilirliği ve test edilebilirliği hedeflenerek modern yazılım prensiplerine uygun şekilde geliştirilmiştir.
