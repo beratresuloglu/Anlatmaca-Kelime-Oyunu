@@ -21,16 +21,18 @@
   </tr>
 </table>
 
-🛠 Teknik Mimari ve Teknolojiler
-  Bu proje, kodun sürdürülebilirliği ve test edilebilirliği hedeflenerek modern yazılım prensiplerine uygun şekilde geliştirilmiştir.
+### 🛠 Teknik Mimari ve Teknolojiler
 
-*Framework: Flutter 
-*Programlama Dili: Dart
-*State Management (Durum Yönetimi): Provider
-    Uygulama içi verilerin (puan, süre, kelime takibi) merkezi ve performanslı yönetimi için kullanılmıştır.
-*Yazılım Mimarisi: MVVM (Model-View-ViewModel)
-    İş mantığı (Logic) ile kullanıcı arayüzü (UI) tamamen birbirinden ayrılarak temiz kod prensipleri uygulanmıştır.
-*Veri Yönetimi: Local JSON & Service Layer
-    Kelime veritabanı JSON formatında asenkron olarak yönetilmektedir.
-*Asset Management: Lottie Animations
-    Kullanıcı deneyimini (UX) artırmak için dinamik animasyonlar entegre edilmiştir.
+Bu proje, kodun sürdürülebilirliği ve test edilebilirliği hedeflenerek modern yazılım prensiplerine uygun şekilde geliştirilmiştir.
+
+* **Core Stack**
+  * **Framework:** Flutter (Cross-platform mobil uygulama geliştirme)
+  * **Programlama Dili:** Dart
+* **Durum Yönetimi (State Management)**
+  * **Provider:** Uygulama içi verilerin (puan, süre, kelime takibi) merkezi ve performanslı yönetimi için kullanılmıştır.
+* **Yazılım Mimarisi**
+  * **MVVM (Model-View-ViewModel):** İş mantığı (Logic) ile kullanıcı arayüzü (UI) tamamen birbirinden ayrılarak temiz kod prensipleri uygulanmıştır.
+* **Veri ve Servis Katmanı**
+  * **Local JSON & Service Layer:** Kelime veritabanı JSON formatında asenkron olarak yönetilmektedir.
+* **Kullanıcı Deneyimi (UX)**
+  * **Lottie Animations:** Dinamik animasyonlar ile kullanıcı etkileşimi artırılmıştır.
