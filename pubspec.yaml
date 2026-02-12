@@ -1,0 +1,61 @@
+name: anlatmaca_kelime_oyunu
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.5+1
+  shared_preferences: ^2.5.4
+  google_fonts: ^8.0.0
+  confetti: ^0.8.0
+  audioplayers: ^6.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  # --- BURASI EKLENDİ ---
+  flutter_launcher_icons: ^0.14.3 
+
+# --- FLUTTER AYARLARI ---
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo4.png
+    - assets/data/how_to_play.txt
+    - assets/words.json
+    - assets/sounds/correct.wav
+    - assets/sounds/wrong.wav
+    - assets/sounds/pass.wav
+    - assets/sounds/ending.wav
+    - assets/sounds/button.wav
+
+  fonts:
+    - family: Atma
+      fonts:
+        - asset: assets/fonts/Atma-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Atma-Regular.ttf
+          weight: 400    
+        - asset: assets/fonts/Atma-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Atma-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Atma-Bold.ttf
+          weight: 700     
+
+# --- İKON YAPILANDIRMASI (EKLENDİ) ---
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo4.png"
+  min_sdk_android: 21 # İsteğe bağlı ama önerilir
