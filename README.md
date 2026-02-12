@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# anlatmaca_kelime_oyunu
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 🎮 Anlatmaca: Kelime Oyunu
   Anlatmaca, arkadaşlarınızla veya ailenizle bir araya geldiğinizde oynayabileceğiniz, Flutter ile geliştirilmiş eğlenceli ve dinamik bir kelime tahmin oyunudur (Tabu tarzında). Kullanıcı dostu arayüzü ve akıcı oyun deneyimi ile sosyal etkinliklerinize renk katmayı hedefler.
 
@@ -69,4 +51,3 @@ Projeyi daha eğlenceli ve kapsamlı hale getirmek için planlanan geliştirmele
 * Sakarya Üniversitesi - Bilgisayar Mühendisliği
 * [LinkedIn](https://www.linkedin.com/in/beratresuloglu/)
 * [GitHub](https://github.com/beratresuloglu)
->>>>>>> 1e1a3487472be0022706e1ee0b743df283b042b8
